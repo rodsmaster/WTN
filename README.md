@@ -11,3 +11,12 @@
 - [x] Serviços
 - [x] Termos
 - [x] Trabalhe conosco 
+
+### Autor
+---
+ <sub><b>Alex Santos</b></sub>🚀
+ <br/><br/><br/>
+ Feito com ❤️ por Alex Santos👋🏽 Entre em contato!
+
+ <br/>
+alex_rds@outlook.com
